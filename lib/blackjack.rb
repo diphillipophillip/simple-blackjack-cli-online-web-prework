@@ -4,7 +4,7 @@ end
 
 
 def deal_card
-  return rand(1..11)
+  return rand(1..10)
 end
 
 
